@@ -114,7 +114,7 @@ The following environment variables can be set in a `.env` file:
 VITE_API_URL=https://react-fast-pizza-api.jonas.io/api
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - This project is part of Jonas Schmedtmann's Udemy course - The Ultimate React Course 2025
 - All assets and UI components are inspired by the course material.
